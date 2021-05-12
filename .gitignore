@@ -1,0 +1,5 @@
+patches/
+*.o
+st
+config.def.h
+config.h.bk
