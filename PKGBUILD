@@ -1,6 +1,6 @@
 # Maintainer: Dylan Barker <dthomasbarker@gmail.com>
 _pkgname=st
-pkgname=$_pkgname-dylan-git
+pkgname=$_pkgname-dylantjb-git
 pkgver=0.8.4.r1134.25b5da9
 pkgrel=1
 pkgdesc="Dylan's build of simple virtual terminal emulator for X"
